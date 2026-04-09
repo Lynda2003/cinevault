@@ -8,7 +8,7 @@
 
 ## 🚀 Demo
 
-👉 **[Voir l'application déployée](https://VOTRE-USERNAME.github.io/cinevault)**
+👉 **[Voir l'application déployée](https://Lynda2003.github.io/cinevault)**
 
 ---
 
@@ -58,7 +58,7 @@ cinevault/
 ### 1. Cloner le repo
 
 ```bash
-git clone https://github.com/VOTRE-USERNAME/cinevault.git
+git clone https://github.com/Lynda2003/cinevault.git
 cd cinevault
 ```
 
@@ -73,7 +73,7 @@ cd cinevault
 Dans `js/app.js`, ligne 8 :
 
 ```javascript
-const API_KEY = 'VOTRE_CLE_API_ICI';
+const API_KEY = "3d08292886cf723d13f42d557f300bc1";
 ```
 
 ### 4. Tester en local
@@ -95,7 +95,7 @@ git push origin main
 
 Ensuite dans GitHub : **Settings → Pages → Branch: main → Save**
 
-✅ Votre app sera disponible sur `https://VOTRE-USERNAME.github.io/cinevault`
+✅ Votre app sera disponible sur `https://Lynda2003.github.io/cinevault`
 
 ---
 

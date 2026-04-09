@@ -10,7 +10,7 @@ git branch -M main
 
 # 2. Ajouter tous les fichiers
 git add .
-git status  
+git status
 
 # 3. Premier commit
 git commit -m "🎬 feat: initial commit — CineVault cinema explorer"
@@ -35,7 +35,7 @@ git push -u origin main
 
 ```bash
 git add .
-git commit -m 
+git commit -m
 git push
 ```
 
@@ -50,7 +50,7 @@ https://Lynda2003.github.io/cinevault
 Remplacer dans js/app.js ligne 8 :
 
 ```javascript
-const API_KEY = "TA_CLE_TMDB_ICI";
+const API_KEY = "3d08292886cf723d13f42d557f300bc1";
 ```
 
 Obtenir une clé gratuite : https://www.themoviedb.org/settings/api
